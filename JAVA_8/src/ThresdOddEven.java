@@ -6,17 +6,6 @@ public class ThresdOddEven extends Thread {
 		ThresdOddEven te1=new ThresdOddEven();
 		ThresdOddEven te2=new ThresdOddEven();
 		
-		
 	}
 }
-
-
-Student studentid
-10Record 
-StudentConact studentid
- 3
- 
- select  st.name,count(address)  from studentid st,StudentConact sc where st.studentid=st.studentid  group by sc.studentid ;
- 
-
  
